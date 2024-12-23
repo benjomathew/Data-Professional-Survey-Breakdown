@@ -27,7 +27,7 @@ This project consists of Power BI .pbix and PDF files of the respective dashboar
 - Only **4.27** out of **10** survey takers are happy with their salary.
 
 ***
-Click [Here]() to view the PDF of the Power BI dashboard.
+Click [Here](https://github.com/benjomathew/Data-Professional-Survey-Breakdown/issues/1) to view the PDF of the Power BI dashboard.
 
 ### Thank You!
 ***

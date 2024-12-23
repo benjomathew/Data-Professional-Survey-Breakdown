@@ -1,7 +1,7 @@
 # Data-Professional-Survey-Breakdown
 A Power BI dashboard that presents the findings and analysis based on the survey conducted by @AlexTheAnalyst about data professionals around the world. He created a video about this project on YouTube, which helped me learn and understand it. Therefore, I was able to complete this project by myself.
 
-This project consists of Power BI .pbix and PDF files of the respective dashboard.
+This project consists of a PDF files of the respective dashboard.
 
 ## Steps followed for this project.
 
